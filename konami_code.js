@@ -5,7 +5,6 @@ let index = 0;
 function init(e) {
   const key = parseInt(e.which);
 
-  console.log(key);
 
   if (key === e.) {
     index++;
