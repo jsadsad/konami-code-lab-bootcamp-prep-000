@@ -14,7 +14,6 @@ function init() {
         index = 0;
         }
       } else {
-        alert('lol');
         index = 0
     }
   });
